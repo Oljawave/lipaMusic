@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "7346651866",
+    "project_id": "lipamusic-eb798",
+    "storage_bucket": "lipamusic-eb798.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7346651866:android:f1ab7453be6cace67edbe3",
+        "android_client_info": {
+          "package_name": "com.example.lipa_music"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7346651866-96gllcsudqb8ksh2glum1urqjeh0vsak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD0IjeiHX5r1ESyIMdUuX-29aCoHbH4g4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7346651866-96gllcsudqb8ksh2glum1urqjeh0vsak.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "7346651866-cema5aep80uibivl92usoq74896kpet9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lipaMusic"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
