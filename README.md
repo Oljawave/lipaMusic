@@ -11,23 +11,23 @@ This is a music app built on the Flutter framework, featuring user authenticatio
  > -  User can search for music tracks by name, artist, or album.
  > -  User can filter music tracks by genre, artist, or album.
  > -  User can view the details of a selected music track.
-**_Technologies used_**
+**_Technologies used_**</br>
  > -  Flutter Framework
  > -  Firebase Realtime Database
  > -  Firebase Storage
-**_Getting Started_**
+**_Getting Started_**</br>
 Prerequisites
 To run this project, you will need to have the following:
  > -  Flutter SDK
  > -  An IDE of your choice (e.g. Android Studio, Visual Studio Code)
  > -  Firebase account
-**_Installation_**
+**_Installation_**</br>
  > - 1 Clone this repository to your local machine.
  > - 2 Open the project in your preferred IDE.
  > - 3 Configure your Firebase project and set up the Firebase Realtime Database.
  > - 4 Add your Firebase configuration file to the project.
  > - 5 Run the app using the Flutter SDK.
-**_Usage_**
+**_Usage_**</br>
  > - 1 On the first screen, you will see the login and registration options.
  > - 2 If you are a new user, click on the register button to create an account. You will be prompted to enter your email and password.
  > - 3 If you are an existing user, enter your email and password to login.
@@ -37,9 +37,9 @@ To run this project, you will need to have the following:
  > - 7 To view your playlist, click on the "Playlist" tab on the bottom navigation bar.
  > - 8 To search for a music track, click on the "Search" tab and enter the name of the track, artist, or album in the search bar.
  > - 9 To filter music tracks by genre, artist, or album, click on the "Filter" tab and select the desired filter option.
-**_Future Improvements_**
+**_Future Improvements_**</br>
  > - Integration with other music APIs such as Spotify, Apple Music, or SoundCloud.
  > - Implement a social sharing feature, allowing users to share their playlists with other users.
  > - Add a feature that suggests music tracks based on the user's listening history.
-**_Contributing_**
+**_Contributing_**</br>
 If you would like to contribute to this project, please create a pull request.
